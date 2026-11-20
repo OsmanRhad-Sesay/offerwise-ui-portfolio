@@ -16,3 +16,9 @@ Georgia Tech collaborative software engineering project.
 - Developed the job-scoring functionality.
 
 The portfolio preview uses fictional companies and compensation data.
+
+### About This Repository
+
+Offerwise originated as a collaborative software engineering project at Georgia Tech. I designed the original application architecture and implemented the job comparison interface and scoring functionality.
+
+This repository serves as a visual portfolio showcase of an updated interface using fictional data. Because the original application was developed collaboratively as academic coursework I've chosen not to publicly redistribute the team's source code without permission.
